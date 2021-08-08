@@ -1,0 +1,5 @@
+# comment_line_with_no_space
+var_A 100.1
+var_B 200.2
+var_C 300.3
+var_D 400.3
